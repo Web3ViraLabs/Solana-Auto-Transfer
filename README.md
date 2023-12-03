@@ -22,6 +22,8 @@ This JavaScript script utilizes the Solana Web3.js library to automate the perio
 
 ````
 npm install
+````
+````
 node your-script-name.js
 ````
 
