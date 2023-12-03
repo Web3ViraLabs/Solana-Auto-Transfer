@@ -3,3 +3,4 @@ node_modules
 solana.js
 .idea
 package-lock.json
+.gitignore
