@@ -1,3 +1,6 @@
 node_modules
 .env
 solana.js
+.idea
+package-lock.json
+.gitignore
