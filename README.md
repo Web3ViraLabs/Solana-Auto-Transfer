@@ -1,6 +1,7 @@
 # Solana Auto-Transfer
 
-This JavaScript script utilizes the Solana Web3.js library to automate the periodic transfer of Solana (SOL) cryptocurrency from one wallet to another. The script continuously monitors the balance of a source wallet and initiates transfers to a specified recipient address when sufficient funds are available.
+This JavaScript script utilizes the Solana Web3.js library to automate the periodic transfer of Solana (SOL) cryptocurrency from one wallet (using its PRIVATE_KEY) to another (RECIPIENT_ADDRESS). 
+The script continuously monitors the balance of a source wallet (using its PRIVATE_KEY) and initiates transfers to a specified RECIPIENT_ADDRESS when sufficient funds are available or transferred to the Host wallet (using its PRIVATE_KEY).
 
 ## Features:
 
@@ -17,6 +18,15 @@ This JavaScript script utilizes the Solana Web3.js library to automate the perio
 
 - Node.js
 * Solana Web3.js library
+
+## env file:
+
+````
+PRIVATE_KEY = your Wallet Private key
+````
+````
+RECIPIENT_ADDRESS = your recipient address
+````
 
 ## How to Run:
 
