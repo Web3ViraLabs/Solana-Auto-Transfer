@@ -32,7 +32,7 @@ RECIPIENT_ADDRESS = your recipient address
 npm install
 ````
 ````
-node your-script-name.js
+node auto-Transfer.js
 ````
 
 ## Important Note:
