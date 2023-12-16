@@ -23,8 +23,6 @@ The script continuously monitors the balance of a source wallet (using its PRIVA
 
 ````
 PRIVATE_KEY = your Wallet Private key
-````
-````
 RECIPIENT_ADDRESS = your recipient address
 ````
 
