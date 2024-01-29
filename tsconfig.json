@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2022", /* Set the JavaScript 
+
+    /* Modules */
+    "module": "commonjs", /* Specify what module code is generated. */
+    "esModuleInterop": true, /* Emit additional J correlates to the same flag in node. */
+    "forceConsistentCasingInFileNames": true, /* Ensure that casing is correct in imports. */
+    /* Type Checking */
+    "strict": true, /* Enable all strict 
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
+}
